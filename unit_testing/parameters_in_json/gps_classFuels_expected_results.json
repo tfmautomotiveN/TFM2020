@@ -1,0 +1,758 @@
+{
+	"test_get_horario":{
+	    "case_1":{
+		"horario":[""]
+      
+		},
+		
+		"case_2":{
+        "horario":["10:30, 14:30"]
+		},
+		
+		"case_3":{
+        "horario":["9:00, 22:00"]
+		},
+		
+		"case_4":{
+        "horario":["Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"]
+		},
+		
+		"case_5":{
+        "horario":["Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"]
+		}
+	},
+	
+	"test_set_horario":{
+	 "case_1":{
+		"horario":[""]
+      
+		},
+		
+		"case_2":{
+        "horario":["10:30, 14:30"]
+		},
+		
+		"case_3":{
+        "horario":["9:00, 22:00"] 
+		},
+		
+		"case_4":{
+        "horario":["Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"]
+		},
+		
+		"case_5":{
+        "horario":["Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"]
+		}
+	},
+	
+	"test_get_cp":{
+    "case_1":{
+		"cp":[""]
+      
+		},
+		
+		"case_2":{
+        "cp":["32400"]
+		},
+		
+		"case_3":{
+        "cp":["56789"] 
+		},
+		
+		"case_4":{
+        "cp":["99999"]
+		},
+		
+		"case_5":{
+        "cp":["00001"]
+		}
+	},
+	
+	"test_set_cp":{
+	    "case_1":{
+		"cp":[""]
+      
+		},
+		
+		"case_2":{
+        "cp":["32400"]
+		},
+		
+		"case_3":{
+        "cp":["56789"]  
+		},
+		
+		"case_4":{
+        "cp":["99999"]
+		},
+		
+		"case_5":{
+        "cp":["00001"]
+		}
+	},
+	
+	"test_get_latitud":{
+	 	    "case_1":{
+		"latitud":[3]
+      
+		},
+		
+		"case_2":{
+        "latitud":[0]
+		},
+		
+		"case_3":{
+        "latitud":[10] 
+		},
+		
+		"case_4":{
+        "latitud":[-10]
+		},
+		
+		"case_5":{
+        "latitud":[56]
+		}
+	},
+	
+	"test_set_latitud":{
+		    "case_1":{
+		"latitud":[3]
+      
+		},
+		
+		"case_2":{
+        "latitud":[0]
+		},
+		
+		"case_3":{
+        "latitud":[10] 
+		},
+		
+		"case_4":{
+        "latitud":[-10]
+		},
+		
+		"case_5":{
+        "latitud":[56]
+		}
+	},
+	
+		"test_get_longitud":{
+	   
+		    "case_1":{
+		"longitud":[40]
+      
+		},
+		
+		"case_2":{
+        "longitud":[-45]
+		},
+		
+		"case_3":{
+        "longitud":[0]
+		},
+		
+		"case_4":{
+        "longitud":[90]
+		},
+		
+		"case_5":{
+        "longitud":[67]
+		}
+	},
+	
+	"test_set_longitud":{
+	    "case_1":{
+		"longitud":[40]
+      
+		},
+		
+		"case_2":{
+        "longitud":[-45]
+		},
+		
+		"case_3":{
+        "longitud":[0]
+		},
+		
+		"case_4":{
+        "longitud":[90]
+		},
+		
+		"case_5":{
+        "longitud":[67]
+		}
+	},
+	
+	"test_get_localidad":{
+	  
+	    "case_1":{
+		"localidad":["Ribadavia"]
+      
+		},
+		
+		"case_2":{
+        "localidad":["A Quinza"]
+		},
+		
+		"case_3":{
+        "localidad":["Valenza"]  
+		},
+		
+		"case_4":{
+        "localidad":[""]
+		},
+		
+		"case_5":{
+        "localidad":["Desconocida"]
+		}
+	},
+	
+	"test_set_localidad":{
+	    "case_1":{
+		"localidad":["Ribadavia"]
+      
+		},
+		
+		"case_2":{
+        "localidad":["A Quinza"]
+		},
+		
+		"case_3":{
+        "localidad":["Valenza"]  
+		},
+		
+		"case_4":{
+        "localidad":[""]
+		},
+		
+		"case_5":{
+        "localidad":["Desconocida"]
+		}
+	},
+	
+	"test_get_margen":{
+	  
+	    "case_1":{
+		"margen":["Derecho"]
+      
+		},
+		
+		"case_2":{
+        "margen":["Izquierdo"]
+		},
+		
+		"case_3":{
+        "margen":["Desconocido"]  
+		},
+		
+		"case_4":{
+        "margen":["IZQUIERDO"]
+		},
+		
+		"case_5":{
+        "margen":["derecho"]
+		}
+	},
+	
+	"test_set_margen":{
+	    "case_1":{
+		"margen":["Derecho"]
+      
+		},
+		
+		"case_2":{
+        "margen":["Izquierdo"]
+		},
+		
+		"case_3":{
+        "margen":["Desconocido"]  
+		},
+		
+		"case_4":{
+        "margen":["IZQUIERDO"]
+		},
+		
+		"case_5":{
+        "margen":["derecho"]
+		}
+	},
+	
+	"test_get_municipio":{
+	    "case_1":{
+		"municipio":["Ribadavia"]
+      
+		},
+		
+		"case_2":{
+        "municipio":["A Quinza"]
+		},
+		
+		"case_3":{
+        "municipio":["Valenza"]  
+		},
+		
+		"case_4":{
+        "municipio":[""]
+		},
+		
+		"case_5":{
+        "municipio":["Desconocida"]
+		}
+	},
+	
+	"test_set_municipio":{
+		    "case_1":{
+		"municipio":["Ribadavia"]
+      
+		},
+		
+		"case_2":{
+        "municipio":["A Quinza"]
+		},
+		
+		"case_3":{
+        "municipio":["Valenza"]  
+		},
+		
+		"case_4":{
+        "municipio":[""]
+		},
+		
+		"case_5":{
+        "municipio":["Desconocida"]
+		}
+	},
+	
+	"test_get_preciobiodiesel":{
+	    "case_1":{
+		"preciobiodiesel":[0]
+		},
+		
+		"case_2":{
+        "preciobiodiesel":[1.32]
+		},
+		
+		"case_3":{
+        "preciobiodiesel":[1.99]  
+		},
+		
+		"case_4":{
+        "preciobiodiesel":[0.99]
+		},
+		
+		"case_5":{
+        "preciobiodiesel":[1.00]
+		}
+	},
+	
+	"test_set_preciobiodiesel":{
+	    "case_1":{
+		"preciobiodiesel":[0]
+		},
+		
+		"case_2":{
+        "preciobiodiesel":[1.32]
+		},
+		
+		"case_3":{
+        "preciobiodiesel":[1.99] 
+		},
+		
+		"case_4":{
+        "preciobiodiesel":[0.99]
+		},
+		
+		"case_5":{
+        "preciobiodiesel":[1.00]
+		}
+	},
+	"test_get_preciobioetanol":{
+       "case_1":{
+		"preciobioetanol":[0]
+		},
+		
+		"case_2":{
+        "preciobioetanol":[1.99]
+		},
+		
+		"case_3":{
+        "preciobioetanol":[1.32] 
+		},
+		
+		"case_4":{
+        "preciobioetanol":[2.45]
+		},
+		
+		"case_5":{
+        "preciobioetanol":[0.45]
+		}
+	},
+	
+	"test_set_preciobioetanol":{
+   
+	    "case_1":{
+		"preciobioetanol":[0]
+		},
+		
+		"case_2":{
+        "preciobioetanol":[1.99]
+		},
+		
+		"case_3":{
+        "preciobioetanol":[1.32]  
+		},
+		
+		"case_4":{
+        "preciobioetanol":[2.45]
+		},
+		
+		"case_5":{
+        "preciobioetanol":[0.45]
+		}
+	},
+	"test_get_preciogasnatural":{
+	    "case_1":{
+		"preciogasnatural":[0]
+		},
+		
+		"case_2":{
+        "preciogasnatural":[2.00]
+		},
+		
+		"case_3":{
+        "preciogasnatural":[0.45] 
+		},
+		
+		"case_4":{
+        "preciogasnatural":[1.32]
+		},
+		
+		"case_5":{
+        "preciogasnatural":[1.99]
+		}
+	},
+	
+	"test_set_preciogasnatural":{
+	    "case_1":{
+		"preciogasnatural":[0]
+		},
+		
+		"case_2":{
+        "preciogasnatural":[2.00]
+		},
+		
+		"case_3":{
+        "preciogasnatural":[0.45] 
+		},
+		
+		"case_4":{
+        "preciogasnatural":[1.32]
+		},
+		
+		"case_5":{
+        "preciogasnatural":[1.99]
+		}
+	},
+	"test_get_preciogasoleoa":{
+	    "case_1":{
+		"preciogasoleoa":[0]
+		},
+		
+		"case_2":{
+        "preciogasoleoa":[1.99]
+		},
+		
+		"case_3":{
+        "preciogasoleoa":[1.32]  
+		},
+		
+		"case_4":{
+        "preciogasoleoa":[0.43]
+		},
+		
+		"case_5":{
+        "preciogasoleoa":[1.00]
+		}
+	},
+	
+	"test_set_preciogasoleoa":{
+	    "case_1":{
+		"preciogasoleoa":[0]
+		},
+		
+		"case_2":{
+        "preciogasoleoa":[1.99]
+		},
+		
+		"case_3":{
+        "preciogasoleoa":[1.32]  
+		},
+		
+		"case_4":{
+        "preciogasoleoa":[0.43]
+		},
+		
+		"case_5":{
+        "preciogasoleoa":[1.00]
+		}
+	},
+	"test_get_preciogasolina95":{
+	    "case_1":{
+		"preciogasolina95":[0]
+		},
+		
+		"case_2":{
+        "preciogasolina95":[0.56]
+		},
+		
+		"case_3":{
+        "preciogasolina95":[1.99] 
+		},
+		
+		"case_4":{
+        "preciogasolina95":[2.0]
+		},
+		
+		"case_5":{
+        "preciogasolina95":[1.34]
+		}
+	},
+	
+	"test_set_preciogasolina95":{
+	    "case_1":{
+		"preciogasolina95":[0]
+		},
+		
+		"case_2":{
+        "preciogasolina95":[0.56]
+		},
+		
+		"case_3":{
+        "preciogasolina95":[1.99] 
+		},
+		
+		"case_4":{
+        "preciogasolina95":[2.0]
+		},
+		
+		"case_5":{
+        "preciogasolina95":[1.34]
+		}
+	},
+	"test_get_preciogasolina98":{
+	    "case_1":{
+		"preciogasolina98":[0]
+		},
+		
+		"case_2":{
+        "preciogasolina98":[1.22]
+		},
+		
+		"case_3":{
+        "preciogasolina98":[2.0]
+		},
+		
+		"case_4":{
+        "preciogasolina98":[1.99]
+		},
+		
+		"case_5":{
+        "preciogasolina98":[0.56]
+		}
+	},
+	
+	"test_set_preciogasolina98":{
+	    "case_1":{
+		"preciogasolina98":[0]
+		},
+		
+		"case_2":{
+        "preciogasolina98":[1.22]
+		},
+		
+		"case_3":{
+        "preciogasolina98":[2.0]
+		},
+		
+		"case_4":{
+        "preciogasolina98":[1.99]
+		},
+		
+		"case_5":{
+        "preciogasolina98":[0.56]
+		}
+	},
+	"test_get_preciogasoleob":{
+	    "case_1":{
+		"preciogasoleob":[0]
+		},
+		
+		"case_2":{
+        "preciogasoleob":[1.20]
+		},
+		
+		"case_3":{
+        "preciogasoleob":[0.99]
+		},
+		
+		"case_4":{
+        "preciogasoleob":[2.99]
+		},
+		
+		"case_5":{
+        "preciogasoleob":[1.0]
+		}
+	},
+	
+	"test_set_preciogasoleob":{
+	    "case_1":{
+		"preciogasoleob":[0]
+		},
+		
+		"case_2":{
+        "preciogasoleob":[1.20]
+		},
+		
+		"case_3":{
+        "preciogasoleob":[0.99]
+		},
+		
+		"case_4":{
+        "preciogasoleob":[2.99]
+		},
+		
+		"case_5":{
+        "preciogasoleob":[1.0]
+		}
+	},
+	"test_get_provincia":{
+	    "case_1":{
+		"provincia":["Lugo"]
+		},
+		
+		"case_2":{
+        "provincia":["Ourense"]
+		},
+		
+		"case_3":{
+        "provincia":["pontevedra"]  
+		},
+		
+		"case_4":{
+        "provincia":[""]
+		},
+		
+		"case_5":{
+        "provincia":["MADRID"]
+		}
+	},
+	
+	"test_set_provincia":{
+	    "case_1":{
+		"provincia":["Lugo"]
+		},
+		
+		"case_2":{
+        "provincia":["Ourense"]
+		},
+		
+		"case_3":{
+        "provincia":["pontevedra"]  
+		},
+		
+		"case_4":{
+        "provincia":[""]
+		},
+		
+		"case_5":{
+        "provincia":["MADRID"]
+		}
+	},
+		"test_get_tipoventa":{
+	    "case_1":{
+		"tipoventa":["particular"]
+		},
+		
+		"case_2":{
+        "tipoventa":["publico"]
+		},
+		
+		"case_3":{
+        "tipoventa":[""]  
+		},
+		
+		"case_4":{
+        "tipoventa":["Particular"]
+		},
+		
+		"case_5":{
+        "tipoventa":["PUBLICO"]
+		}
+	},
+	
+	"test_set_tipoventa":{
+	    "case_1":{
+		"tipoventa":["particular"]
+		},
+		
+		"case_2":{
+        "tipoventa":["publico"]
+		},
+		
+		"case_3":{
+        "tipoventa":[""]  
+		},
+		
+		"case_4":{
+        "tipoventa":["Particular"]
+		},
+		
+		"case_5":{
+        "tipoventa":["PUBLICO"]
+		}
+	},
+	"test_get_timeS":{
+	    "case_1":{
+		"timeS":["15/11/1989"]
+		},
+		
+		"case_2":{
+        "timeS":[""]
+		},
+		
+		"case_3":{
+        "timeS":["20/05/2008 13:40"]  
+		},
+		
+		"case_4":{
+        "timeS":["20/05/2008 08:40"]
+		},
+		
+		"case_5":{
+        "timeS":["20/05/2008 08:40am"]
+		}
+	},
+	
+	"test_set_timeS":{
+	    "case_1":{
+		"timeS":["15/11/1989"]
+		},
+		
+		"case_2":{
+        "timeS":[""]
+		},
+		
+		"case_3":{
+        "timeS":["20/05/2008 13:40"]  
+		},
+		
+		"case_4":{
+        "timeS":["20/05/2008 08:40"]
+		},
+		
+		"case_5":{
+        "timeS":["20/05/2008 08:40am"]
+		}
+		}
+}

@@ -1,0 +1,56 @@
+{
+    "test_return_position_event":{
+	    "case_1":{
+            "position_event":[0,0,0,0,0]
+		},
+		
+		"case_2":{
+            "position_event":[]
+		},
+		
+		"case_3":{
+            "position_event":[1,1,1,1,1]
+		},
+		
+		"case_4":{
+            "position_event":[0,0,1,1]
+		},
+		
+		"case_5":{
+            "position_event":[0,1,0,0]
+		}
+	},
+	
+	"test_open_address":{
+	    "case_1":{
+		    "direcciones":["Ourense,Spain", "Lugo,Spain"],
+		    "data_provincias":["OURENSE","LUGO"]
+		}
+		
+	},
+	
+	"test_open_data":{
+	    "case_1":{
+		    "long":[86163547.55, 86163547.58, 86163547.6, 86163547.73], 
+			"lat":[42101798.48, 42101798.48, 42101798.48, 42101798.47],
+			"heading":[138.47, 172.89, 355.77, 211.70],
+			"bool_event":[2.01, 2.01, 2.01, 2.01]
+                 
+		}
+	},
+	
+	"test_angle_to_radio":{
+	    "case_1":{
+		    "radius":3.8810	
+		},
+		
+		"case_2":{
+		    "radius":6.0827
+		},
+		
+		"case_3":{
+		    "radius":1.118
+		}
+	}
+	
+}

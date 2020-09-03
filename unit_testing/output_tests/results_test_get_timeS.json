@@ -1,0 +1,3360 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": "20/05/2008 08:40am"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": "20/05/2008 08:40am"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": "20/05/2008 08:40am"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": "20/05/2008 08:40am"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40am"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 08:40"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "20/05/2008 13:40"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "timeS": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }, 
+        "expected_results": {
+            "timeS": [
+                "15/11/1989"
+            ]
+        }
+    }
+}

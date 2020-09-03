@@ -1,0 +1,2601 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "VIGO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "lugo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "PONTEVEDRA"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "hacia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "hacia": [
+                "Ourense"
+            ]
+        }
+    }
+}

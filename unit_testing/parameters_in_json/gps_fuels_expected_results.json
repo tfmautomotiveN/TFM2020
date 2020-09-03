@@ -1,0 +1,66 @@
+{
+	"test_event_fuels":{
+	    "case_1":{
+		"boolean_event":1
+      
+		},
+		
+		"case_2":{
+        "boolean_event":1
+		},
+		
+		"case_3":{
+        "boolean_event":1
+		}
+	},
+	
+	"test_setting_classFuels":{
+	    "case_1":{
+	    "boolean_event":1
+		},
+		
+		"case_2":{
+        "boolean_event":0
+		},
+		
+		"case_3":{
+        "boolean_event":1
+		}
+	},
+	
+	"test_save_csv_static_incidents":{
+	    "case_1":{
+		"boolean_event":1
+      
+		},
+		
+		"case_2":{
+        "boolean_event":1
+		},
+		
+		"case_3":{
+        "boolean_event":1
+		},
+		
+		"case_4":{
+        "boolean_event":1
+		}
+		
+	},
+	
+	"test_save_csv_dinamic_incidents":{
+    "case_1":{
+		"boolean_event":1
+		},
+		
+	"case_2":{
+        "boolean_event":1
+		},
+		
+	"case_3":{
+        "boolean_event":1
+		}
+	}
+}
+
+	

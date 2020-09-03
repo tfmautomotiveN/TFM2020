@@ -1,0 +1,2601 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "L-3456AV"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "lu-3456R"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "po-2345r"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                "OU-3456N"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "matricula": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "matricula": [
+                ""
+            ]
+        }
+    }
+}

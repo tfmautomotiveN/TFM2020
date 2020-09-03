@@ -1,0 +1,3403 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": 67
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": 67
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "longitud": [
+                67
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "longitud": [
+                90
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "longitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "longitud": [
+                -45
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "longitud": [
+                40
+            ]
+        }, 
+        "expected_results": {
+            "longitud": [
+                40
+            ]
+        }
+    }
+}

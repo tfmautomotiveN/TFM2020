@@ -1,0 +1,3186 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Desconocida"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "localidad": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Valenza"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "A Quinza"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }, 
+        "expected_results": {
+            "localidad": [
+                "Ribadavia"
+            ]
+        }
+    }
+}

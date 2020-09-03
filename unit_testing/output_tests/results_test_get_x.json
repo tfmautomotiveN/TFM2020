@@ -1,0 +1,2601 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "x": [
+                67.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                67
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "x": [
+                90.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                90
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "x": [
+                0.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                0
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "x": [
+                -45.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                -45
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "x": [
+                40.0
+            ]
+        }, 
+        "expected_results": {
+            "x": [
+                40
+            ]
+        }
+    }
+}

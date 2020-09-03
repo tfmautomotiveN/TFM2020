@@ -1,0 +1,20 @@
+{
+    "Latitud": [], 
+    "Precio_biodiesel": [], 
+    "Provincia": [], 
+    "Margen": [], 
+    "Precio_gasolina95": [], 
+    "Codigo_Postal": [], 
+    "Precio_gasolina98": [], 
+    "Fecha_Hora": [], 
+    "Tipo_de_venta": [], 
+    "Precio_gasoleoB": [], 
+    "Precio_gasoleoA": [], 
+    "Precio_bioetanol": [], 
+    "Horario": [], 
+    "Distancia_minima_trayectoria": [], 
+    "Longitud": [], 
+    "Localidad": [], 
+    "Precio_gas_natural": [], 
+    "Municipio": []
+}

@@ -1,0 +1,9613 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                1, 
+                0, 
+                0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "position_event": []
+        }, 
+        "expected_results": {
+            "position_event": []
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "expected_results": {
+            "position_event": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ]
+        }
+    }
+}

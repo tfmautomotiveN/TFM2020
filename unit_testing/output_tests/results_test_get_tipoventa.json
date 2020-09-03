@@ -1,0 +1,3360 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": "PUBLICO"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": "PUBLICO"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": "PUBLICO"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": "PUBLICO"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "PUBLICO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "Particular"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipoventa": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "publico"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }, 
+        "expected_results": {
+            "tipoventa": [
+                "particular"
+            ]
+        }
+    }
+}

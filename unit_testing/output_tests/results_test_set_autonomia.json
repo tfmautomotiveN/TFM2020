@@ -1,0 +1,2536 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "galicia"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "barcelona"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "Madrid"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                "GALICIA"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "autonomia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "autonomia": [
+                ""
+            ]
+        }
+    }
+}

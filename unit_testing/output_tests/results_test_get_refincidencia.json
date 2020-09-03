@@ -1,0 +1,2536 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "Lu-234567"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "PO-123445"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "lu-234567"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                "po-123445"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "refincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "refincidencia": [
+                ""
+            ]
+        }
+    }
+}

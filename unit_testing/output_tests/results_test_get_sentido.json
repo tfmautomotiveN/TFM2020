@@ -1,0 +1,2601 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "izquierda"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "DERECHA"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Izquierda"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                "Derecha"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "sentido": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "sentido": [
+                ""
+            ]
+        }
+    }
+}

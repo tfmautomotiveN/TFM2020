@@ -1,0 +1,2601 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "Po-234"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "PO-23"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "N-120"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                "lu-23"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "carretera": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "carretera": [
+                ""
+            ]
+        }
+    }
+}

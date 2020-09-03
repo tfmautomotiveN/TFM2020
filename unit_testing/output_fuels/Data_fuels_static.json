@@ -1,0 +1,56 @@
+{
+    "Latitud": [
+        40
+    ], 
+    "Precio_biodiesel": [
+        1.13
+    ], 
+    "Provincia": [
+        "ourense"
+    ], 
+    "Margen": [
+        "derecha"
+    ], 
+    "Precio_gasolina95": [
+        1.56
+    ], 
+    "Codigo_Postal": [
+        32400
+    ], 
+    "Precio_gasolina98": [
+        1.56
+    ], 
+    "Fecha_Hora": [
+        "29/08/2020 22:09"
+    ], 
+    "Tipo_de_venta": [
+        "publica"
+    ], 
+    "Precio_gasoleoB": [
+        1.45
+    ], 
+    "Precio_gasoleoA": [
+        1.67
+    ], 
+    "Precio_bioetanol": [
+        1.34
+    ], 
+    "Horario": [
+        "10:00-14:00"
+    ], 
+    "Distancia_minima_trayectoria": [
+        9.1
+    ], 
+    "Longitud": [
+        7
+    ], 
+    "Localidad": [
+        "ribadavia"
+    ], 
+    "Precio_gas_natural": [
+        1.67
+    ], 
+    "Municipio": [
+        "ribadavia"
+    ]
+}

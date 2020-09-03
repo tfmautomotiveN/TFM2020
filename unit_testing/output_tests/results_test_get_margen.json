@@ -1,0 +1,3425 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": "derecho"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": "derecho"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": "derecho"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": "derecho"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "margen": [
+                "derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "derecho"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "IZQUIERDO"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Desconocido"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Izquierdo"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }, 
+        "expected_results": {
+            "margen": [
+                "Derecho"
+            ]
+        }
+    }
+}

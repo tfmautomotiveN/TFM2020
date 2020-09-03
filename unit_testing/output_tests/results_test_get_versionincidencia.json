@@ -1,0 +1,2601 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "2.15"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1.0"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "1"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                "0.1"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "versionincidencia": [
+                ""
+            ]
+        }
+    }
+}

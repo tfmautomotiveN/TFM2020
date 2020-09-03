@@ -10,23 +10,24 @@ class classXML:
     # No tiene parámetros de entrada ni de salida
     def __init__(self):
 
-        self.tipoC = 0
-        self.autonomiaC = 0
-        self.provinciaC = 0
-        self.matriculaC = 0
-        self.causaC = 0
-        self.poblacionC = 0
-        self.fechahora_iniC = 0
-        self.nivelC = 0
-        self.carreteraC = 0
-        self.pk_inicialC = 0
-        self.pk_finalC = 0
-        self.sentidoC = 0
-        self.ref_incidenciaC = 0
-        self.version_incidenciaC = 0
-        self.xC = 0
-        self.yC = 0
-        self.tipolocalizacionC = 0
+        self.tipoC = []
+        self.autonomiaC = []
+        self.provinciaC = []
+        self.matriculaC = []
+        self.causaC = []
+        self.poblacionC = []
+        self.fechahora_iniC = []
+        self.nivelC = []
+        self.carreteraC = []
+        self.pk_inicialC = []
+        self.pk_finalC = []
+        self.sentidoC = []
+        self.ref_incidenciaC = []
+        self.version_incidenciaC = []
+        self.xC = []
+        self.yC = []
+        self.tipolocalizacionC = []
+        self.haciaC = []
 
     ##La función get_num1bytes devuelve el número de bloques de 1 byte de los inputs conectados al coche
     # Esta función es la que se encarga de devolver el número de bloques de 1 byte de los inputs conectados al coche.
@@ -40,7 +41,7 @@ class classXML:
     # Se encarga de cambiar el valor del número de bloques de 1 byte.
     # @param num1bytes que es el número de bloques de 1 byte de los inputs
     def set_tipo(self, tipo):
-        self.tipoC = tipo
+        self.tipoC.append(tipo)
 
     ##La función get_id1bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida id1bytes con el identificador del input de 1 byte.
@@ -55,7 +56,7 @@ class classXML:
     # Se encarga de cambiar el valor del identificador del input de 1 byte.
     # @param id1bytes identificador del input de 1 byte
     def set_autonomia(self, autonomia):
-        self.autonomiaC = autonomia
+        self.autonomiaC.append(autonomia)
 
     ##La función get_value1bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida value1bytes con el valor del input de 1 byte.
@@ -69,7 +70,7 @@ class classXML:
     # Se encarga de cambiar el valor del input de 1 byte.
     # @param value1bytes valor del input de 1 byte
     def set_provincia(self, provincia):
-        self.provinciaC = provincia
+        self.provinciaC.append(provincia)
 
     ##La función get_num2bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve num2bytes con el número de bloques de 2 bytes de los inputs conectados al coche
@@ -83,7 +84,7 @@ class classXML:
     # Esta función se encarga de cambiar el valor del número de bloques de 2 bytes de los inputs conectados al coche.
     # @return num2bytes con el número de bloques de 2 bytes de los inputs conectados al coche.
     def set_matricula(self, matricula):
-        self.matriculaC = matricula
+        self.matriculaC.append(matricula)
 
     ##La función get_id2bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida id2bytes con el identificador del input de 2 bytes.
@@ -97,8 +98,8 @@ class classXML:
     # Esta función tiene un parámetro de entrada id2bytes con el identificador del input de 2 bytes.
     # Se encarga de cambiar el valor del identificador del input de 2 bytes.
     # @param id2bytes identificador del input de 2 bytes
-    def set_causa(self, causaC):
-        self.causa = causaC
+    def set_causa(self, causa):
+        self.causaC.append(causa)
 
     ##La función get_value2bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida value2bytes con el valor del input de 2 bytes.
@@ -112,7 +113,7 @@ class classXML:
     # Se encarga de cambiar el valor del input de 2 bytes.
     # @param value2bytes valor del input de 2 bytes
     def set_poblacion(self, poblacion):
-        self.poblacionC = poblacion
+        self.poblacionC.append(poblacion)
 
     ##La función get_num4bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve num4bytes con el número de bloques de 4 bytes de los inputs conectados al coche
@@ -126,7 +127,7 @@ class classXML:
     # Esta función se encarga de cambiar el valor del número de bloques de 4 bytes de los inputs conectados al coche.
     # @return num4bytes con el número de bloques de 4 bytes de los inputs conectados al coche.
     def set_fechahoraini(self, fechahora_ini):
-        self.fechahora_iniC = fechahora_ini
+        self.fechahora_iniC.append(fechahora_ini)
 
     ##La función get_id4bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida id4bytes con el identificador del input de 4 bytes.
@@ -140,7 +141,7 @@ class classXML:
     # Se encarga de cambiar el valor del identificador del input de 4 bytes.
     # @param id4bytes identificador del input de 4 bytes
     def set_nivel(self, nivel):
-        self.nivelC = nivel
+        self.nivelC.append(nivel)
 
     ##La función get_value4bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida value4bytes con el valor del input de 4 bytes.
@@ -154,7 +155,7 @@ class classXML:
     # Se encarga de cambiar el valor del input de 4 bytes.
     # @param value4bytes valor del input de 4 bytes
     def set_carretera(self, carretera):
-        self.carreteraC = carretera
+        self.carreteraC.append(carretera)
 
     ##La función get_num8bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve num8bytes con el número de bloques de 8 bytes de los inputs conectados al coche
@@ -170,7 +171,7 @@ class classXML:
     def set_pkinicial(self, pk_inicial):
         if pk_inicial != None:
             pk_inicial = float(pk_inicial)
-        self.pk_inicialC = pk_inicial
+        self.pk_inicialC.append(pk_inicial)
 
     ##La función get_id8bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida id8bytes con el identificador del input de 8 bytes.
@@ -186,7 +187,7 @@ class classXML:
     def set_pkfinal(self, pk_final):
         if pk_final != None:
             pk_final = float(pk_final)
-        self.pk_finalC = pk_final
+        self.pk_finalC.append(pk_final)
 
     ##La función get_value8bytes no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida value8bytes con el valor del input de 8 bytes.
@@ -200,7 +201,7 @@ class classXML:
     # Se encarga de cambiar el valor del input de 8 bytes.
     # @param value8bytes valor del input de 8 bytes
     def set_sentido(self, sentido):
-        self.sentidoC = sentido
+        self.sentidoC.append(sentido)
 
     ##La función get_contio1 no tiene parámetros de entrada, pero si uno de salida
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida contIO1 que es un contador interno de los elementos inputs conectados al coche
@@ -214,7 +215,7 @@ class classXML:
     # Se encarga de devolver el valor del contador interno de los elementos inputs conectados al coche
     # @param contIO1 el valor del contador interno de los elementos inputs conectados al coche
     def set_hacia(self, hacia):
-        self.haciaC = hacia
+        self.haciaC.append(hacia)
 
     ##La función get_contvuelta1 no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve un de salida contvuelta1 que es un contador interno con el número de datos
@@ -229,7 +230,7 @@ class classXML:
     # Se encarga de devolver el contador del número (cabecera+cuerpo) que envía el gps
     # @param contvuelta1 el contador del número (cabecera+cuerpo) que envía el gps
     def set_refincidencia(self, ref_incidencia):
-        self.ref_incidenciaC = ref_incidencia
+        self.ref_incidenciaC.append(ref_incidencia)
 
     ##La función get_cont2 no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida cont2 que es un contador interno auxiliar para parsear los inputs que se conectan al coche
@@ -243,7 +244,7 @@ class classXML:
     # Se encarga de devovler el contador interno auxiliar para parsear los inputs que se conectan al coche
     # @param cont2 el contador interno auxiliar para parsear los inputs que se conectan al coche
     def set_versionincidencia(self, version_incidencia):
-        self.version_incidenciaC = version_incidencia
+        self.version_incidenciaC.append(version_incidencia)
 
     ##La función get_cont2 no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida cont2 que es un contador interno auxiliar para parsear los inputs que se conectan al coche
@@ -259,7 +260,7 @@ class classXML:
     def set_x(self, x):
         if x != None:
             x = float(x)
-        self.xC = x
+        self.xC.append(x)
 
     ##La función get_cont2 no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida cont2 que es un contador interno auxiliar para parsear los inputs que se conectan al coche
@@ -275,7 +276,7 @@ class classXML:
     def set_y(self, y):
         if y != None:
             y = float(y)
-        self.yC = y
+        self.yC.append(y)
 
     ##La función get_cont2 no tiene parámetros de entrada, pero si uno de salida.
     # Esta función no tiene parámetros de entrada, pero devuelve uno de salida cont2 que es un contador interno auxiliar para parsear los inputs que se conectan al coche
@@ -291,4 +292,4 @@ class classXML:
     def set_tipolocalizacion(self, tipolocalizacion):
         if tipolocalizacion != None:
             tipolocalizacion = int(tipolocalizacion)
-        self.tipolocalizacionC = tipolocalizacion
+        self.tipolocalizacionC.append(tipolocalizacion)

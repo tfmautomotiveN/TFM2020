@@ -1,0 +1,2432 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4.99
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4.99
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                4
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                3
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                -2
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                1
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "tipolocalizacion": [
+                0
+            ]
+        }
+    }
+}

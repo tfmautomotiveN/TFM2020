@@ -1,0 +1,3425 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": 56
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": 56
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": 56
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": 56
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "latitud": [
+                56
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                56
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "latitud": [
+                -10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                -10
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "latitud": [
+                10
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                10
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "latitud": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                0
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "latitud": [
+                3
+            ]
+        }, 
+        "expected_results": {
+            "latitud": [
+                3
+            ]
+        }
+    }
+}

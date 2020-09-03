@@ -1,0 +1,2601 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "ROJO"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "Amarillo"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "rojo"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                "VERDE"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "nivel": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "nivel": [
+                ""
+            ]
+        }
+    }
+}

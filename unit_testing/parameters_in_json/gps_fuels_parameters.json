@@ -1,0 +1,124 @@
+{
+	"test_event_fuels":{
+	    "case_1":{
+		"data_provincias_filter":["PONTEVEDRA","LUGO"] 
+      
+		},
+		
+		"case_2":{
+        "data_provincias_filter":[]
+		},
+		
+		"case_3":{
+        "data_provincias_filter":["LUGO"] 
+		}
+	},
+	
+	"test_setting_classFuels":{
+	    "case_1":{
+		"data_provincia":"ourense",
+		"provincia":"ourense",
+		"horario":"10:00-14:00",
+		"cp":32400,
+		"latitud":40,
+		"longitud":7,
+		"localidad":"ribadavia",
+		"margen":"derecha",
+		"municipio":"ribadavia",
+		"preciobiodiesel":1.13,
+		"preciobioetanol":1.34,
+		"preciogasnatural":1.67,
+		"preciogasoleoa":1.67,
+		"preciogasolina95":1.56,
+		"preciogasolina98":1.56,
+		"preciogasoleob":1.45,
+		"timeS":"29/08/2020 22:09",
+		"tipoventa":"publica"
+
+		},
+		
+		"case_2":{
+        "data_provincia":"LUGO",
+		"provincia":"ourense",
+		"horario":"10:00-14:00",
+		"cp":32400,
+		"latitud":40,
+		"longitud":7,
+		"localidad":"ribadavia",
+		"margen":"derecha",
+		"municipio":"ribadavia",
+		"preciobiodiesel":1.13,
+		"preciobioetanol":1.34,
+		"preciogasnatural":1.67,
+		"preciogasoleoa":1.67,
+		"preciogasolina95":1.56,
+		"preciogasolina98":1.56,
+		"preciogasoleob":1.45,
+		"timeS":"29/08/2020 22:09",
+		"tipoventa":"publica"
+		},
+		
+		"case_3":{
+        "data_provincia":"LUGO",
+		"provincia":"LUGO",
+		"horario":"10:00-14:00",
+		"cp":32499,
+		"latitud":-40,
+		"longitud":-7,
+		"localidad":"RIBADAVIA",
+		"margen":"Izquierda",
+		"municipio":"Ribadavia",
+		"preciobiodiesel":0.45,
+		"preciobioetanol":1.00,
+		"preciogasnatural":1.00,
+		"preciogasoleoa":1.00,
+		"preciogasolina95":1.00,
+		"preciogasolina98":1.99,
+		"preciogasoleob":0.99,
+		"timeS":"29/08/2020 22:09:06",
+		"tipoventa":"PARTICULAR"
+		}
+	},
+	
+	"test_save_csv_static_incidents":{
+	    "case_1":{
+		"dictionary_list":{"0":9.1}
+      
+		},
+		
+		"case_2":{
+        "dictionary_list":{"0":0.0}
+		},
+		
+		"case_3":{
+        "dictionary_list":{}
+		},
+		
+		"case_4":{
+        "dictionary_list":{"0":9.1,"1":0.99,"2":78.23,"3":12.56}
+		}
+	},
+	
+	"test_save_csv_dinamic_incidents":{
+    "case_1":{
+		"index_incidents_provincia_start":[0],
+		"index_incidents_provincia_end":[],
+		"array_distances_start":[1.2],
+		"array_distances_end":[]
+		},
+		
+		"case_2":{
+      	"index_incidents_provincia_start":[],
+		"index_incidents_provincia_end":[0],
+		"array_distances_start":[],
+		"array_distances_end":[0.99]
+		},
+		
+		"case_3":{
+        "index_incidents_provincia_start":[],
+		"index_incidents_provincia_end":[],
+		"array_distances_start":[],
+		"array_distances_end":[] 
+		}
+	}
+}

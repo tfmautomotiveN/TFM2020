@@ -1,0 +1,5960 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": "MADRID"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": "MADRID"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": "MADRID"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": "MADRID"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "MADRID"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "provincia": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "pontevedra"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Ourense"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }, 
+        "expected_results": {
+            "provincia": [
+                "Lugo"
+            ]
+        }
+    }
+}

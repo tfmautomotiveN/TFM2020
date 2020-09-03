@@ -1,0 +1,110 @@
+{
+    "Latitud": [
+        42.774083, 
+        42.105431, 
+        42.114111, 
+        42.501889
+    ], 
+    "Precio_biodiesel": [
+        null, 
+        null, 
+        null, 
+        null
+    ], 
+    "Provincia": [
+        "PONTEVEDRA", 
+        "PONTEVEDRA", 
+        "PONTEVEDRA", 
+        "PONTEVEDRA"
+    ], 
+    "Margen": [
+        "D", 
+        "I", 
+        "I", 
+        "D"
+    ], 
+    "Precio_gasolina95": [
+        1.169, 
+        1.166, 
+        1.219, 
+        1.199
+    ], 
+    "Codigo_Postal": [
+        36528, 
+        36430, 
+        36300, 
+        36692
+    ], 
+    "Precio_gasolina98": [
+        null, 
+        null, 
+        null, 
+        null
+    ], 
+    "Fecha_Hora": [
+        1598867530000, 
+        1598867530000, 
+        1598867530000, 
+        1598867530000
+    ], 
+    "Tipo_de_venta": [
+        "P", 
+        "P", 
+        "P", 
+        "P"
+    ], 
+    "Precio_gasoleoB": [
+        0.749, 
+        null, 
+        null, 
+        null
+    ], 
+    "Precio_gasoleoA": [
+        1.079, 
+        1.088, 
+        1.109, 
+        1.099
+    ], 
+    "Precio_bioetanol": [
+        null, 
+        null, 
+        null, 
+        null
+    ], 
+    "Horario": [
+        "L-D: 07:00-23:00", 
+        "L: 07:00-23:00", 
+        "L-D: 07:00-23:00", 
+        "L-V: 06:30-23:00; S: 07:00-23:00; D: 08:00-23:00"
+    ], 
+    "Distancia_minima_trayectoria": [
+        81.50009361727977, 
+        24.288874174101842, 
+        17.530047968179318, 
+        32.02092852123517
+    ], 
+    "Longitud": [
+        -8.026028, 
+        -8.322459, 
+        -8.840056, 
+        -8.656444
+    ], 
+    "Localidad": [
+        "MARCELIN", 
+        "ARBO", 
+        "BAIONA", 
+        "CURRO"
+    ], 
+    "Precio_gas_natural": [
+        null, 
+        null, 
+        null, 
+        null
+    ], 
+    "Municipio": [
+        "Agolada", 
+        "Arbo", 
+        "Baiona", 
+        "Barro"
+    ]
+}

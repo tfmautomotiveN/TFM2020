@@ -1,0 +1,3360 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": 1.0
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": 1.0
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": 1.0
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": 1.0
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.0
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0.99
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.99
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                1.32
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }, 
+        "expected_results": {
+            "preciobiodiesel": [
+                0
+            ]
+        }
+    }
+}

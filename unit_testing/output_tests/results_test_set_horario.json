@@ -1,0 +1,4685 @@
+{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "efsd"
+            ]
+        }, 
+        "expected_results": {
+            "horario": "efsd"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "efsd"
+            ]
+        }, 
+        "expected_results": {
+            "horario": "efsd"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "efsd"
+            ]
+        }, 
+        "expected_results": {
+            "horario": "efsd"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": "9:00, 22:00"
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                [
+                    "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00", 
+                    "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+                ]
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00", 
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00", 
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:50"
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}{
+    "case_5": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes: 7:00-23:00, Sabado, Domingo: 8:30-22:30"
+            ]
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo: 7:30-22:00"
+            ]
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "9:00, 22:00"
+            ]
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                "10:30, 14:30"
+            ]
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "horario": [
+                ""
+            ]
+        }, 
+        "expected_results": {
+            "horario": [
+                ""
+            ]
+        }
+    }
+}

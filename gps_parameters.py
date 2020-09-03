@@ -1,27 +1,29 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import utm
-import csv, operator
+#import utm
+import csv
 
-def convert_latlong_to_utm(long,lat):
+'''def convert_latlong_to_utm(long,lat):
     x_utm=[]
     y_utm=[]
+
     for i in range(len(long)):
         coords = utm.from_latlon(long[i], lat[i])
         x_utm.append(coords[0])
         y_utm.append(coords[1])
-    return x_utm,y_utm
+
+    return x_utm,y_utm'''
 
 
 def open_data():
     #Longitude --> x coord
     #Latitude --> y coord
-    sats=[]
-    time=[]
-    lat=[]
-    long=[]
-    velocity=[]
-    heading=[]
+    sats = []
+    time = []
+    lat = []
+    long = []
+    velocity = []
+    heading = []
     '''
     height=[]
     vert_vel=[]
@@ -35,7 +37,7 @@ def open_data():
     avifileindex=[]
     avitime=[]
     '''
-    VB3i_AD2=[]
+    VB3i_AD2 = []
     '''
     latitude_raw=[]
     longitude_raw=[]
@@ -57,7 +59,6 @@ def open_data():
     Speed_Smoothed=[]
     '''
     with open('Racelogic_csv.csv') as csvarchivo:
-        #entrada = csv.reader(csvarchivo)
         for row in csv.reader(csvarchivo, delimiter=';'):
             sats.append(row[0])
             time.append(row[1])
@@ -97,23 +98,38 @@ def open_data():
             dgps_status.append(row[34])
             Speed_Smoothed.append(row[35])'''
 
-        sats=sats[3:len(sats)]
+        sats = sats[3:len(sats)]
         sats = map(int, sats)
-        lat=lat[3:len(lat)]
-        lat=map(float,lat)
+        lat = lat[3:len(lat)]
+        lat = map(float, lat)
         lat = [x/60 for x in lat]
-        long=long[3:len(long)]
-        long=map(float,long)
+        long = long[3:len(long)]
+        long = map(float, long)
         long = [x/60 for x in long]
-        heading=heading[3:len(heading)]
-        heading=map(float,heading)
-        VB3i_AD2=VB3i_AD2[3:len(VB3i_AD2)]
+        heading = heading[3:len(heading)]
+        heading = map(float, heading)
+        VB3i_AD2 = VB3i_AD2[3:len(VB3i_AD2)]
         #el evento ahora hay que buscar los que
         #tengan el valor 5
-        bool_event=map(float,VB3i_AD2)
-        #for i in range(len(bool_event)):
-            #if int(bool_event[i])!=2:
-                #print("Soy el evento")
-                #print(int(bool_event[i]))
-        x_utm,y_utm=convert_latlong_to_utm(long,lat)
-        return x_utm,y_utm,heading,bool_event
+        bool_event = map(float, VB3i_AD2)
+
+        return long, lat, heading, bool_event
+
+def return_position_event(bool_event):
+    position_event = []
+    for i in range(len(bool_event)):
+        if round(bool_event[i], 0) == 5.00:
+            position_event.append(1)
+        else:
+            position_event.append(0)
+    return position_event
+
+def open_address():
+    with open('Direcciones_csv.csv') as csvarchivo:
+        direcciones = []
+        data_provincias_filter = []
+        for row in csv.reader(csvarchivo, delimiter=',', quotechar='\''):
+            if row != []:
+                direcciones.append(str(row[0]) + ',' + str(row[1]))
+                data_provincias_filter.append(str(row[0]).upper())
+    return direcciones, data_provincias_filter

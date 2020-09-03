@@ -1,0 +1,36 @@
+{
+	"test_return_position_event":{
+	    "case_1":{
+            "bool_event":[10, 30, 40, 70, 90]
+		},
+		
+		"case_2":{
+            "bool_event":[]
+		},
+		
+		"case_3":{
+            "bool_event":[5.0, 5.0, 5.0, 5.0, 5.0]
+		},
+		
+		"case_4":{
+            "bool_event":[-45.49, 0, 5.0, 5.0 ]
+		},
+		
+		"case_5":{
+            "bool_event":[65535.65, 5.0, -67.7889, 0]
+		}
+	},
+	
+	"test_open_address":{
+	       "case_1":{
+		    
+		}
+	},
+	
+	"test_open_data":{
+	    "case_1":{
+		
+		}
+	}
+	
+}

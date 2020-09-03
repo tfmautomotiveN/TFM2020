@@ -1,0 +1,208 @@
+{
+    "case_3": {
+        "obtained_results": {
+            "boolean_event": 0
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "boolean_event": 0
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_4": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_3": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_2": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}{
+    "case_1": {
+        "obtained_results": {
+            "boolean_event": 1
+        }, 
+        "expected_results": {
+            "boolean_event": 1
+        }
+    }
+}
